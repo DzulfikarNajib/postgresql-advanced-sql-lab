@@ -1,4 +1,4 @@
-# postgresql-advanced-sql-lab
+# Postgresql-advanced-sql-lab
 - Data Control Language (DCL) dan Advanced SQL di PostgreSQL.  
 - Materi mencakup GRANT/REVOKE, JOIN, VIEW, Nested Query, Procedure, dan Trigger.  
 - Dilaksanakan menggunakan database **company**
